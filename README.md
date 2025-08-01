@@ -4,7 +4,6 @@
 This repository contains projects published on my Substack, including data analysis, machine learning and notebooks related to other articles on AI ethics. 
 
 
-## Personal Interest Projects on Substack
 [Substack](https://icanalytics.substack.com/)
 
 ['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrends.pdf)
